@@ -1,10 +1,8 @@
 {
-  "typeDefault": [
-    {
-      "Delamination",
-      "Porosity",
-      "Inclusion"
-    }
+  "typeDefault": [  
+    "Delamination",
+    "Porosity",
+    "Inclusion"
   ],
   "report": [
   ]
